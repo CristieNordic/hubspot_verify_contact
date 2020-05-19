@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.csv
+config0.py
 
 # C extensions
 *.so
@@ -11,11 +13,13 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+bin/
 downloads/
 eggs/
 .eggs/
 lib/
 lib64
+include/
 parts/
 sdist/
 var/
